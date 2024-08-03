@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to the GitHub profile of Gabriel Guerr123123312.
+Welcome to the GitHub profile of Gabriel Guerra.
 
 ## About Me:
 - 💻 Computer Engineer
