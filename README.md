@@ -3,9 +3,9 @@
 Welcome to the GitHub profile of Gabriel Guerra.
 
 ## About Me:
-- 💻 Computer Engineer
+- 💻 Business Analyst
 - 📊 Data Scientist
-- 👨‍💻 Programming Aficionado
+- 👨‍💻 Programmer
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrieldarioguerra/)
 
