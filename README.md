@@ -11,9 +11,21 @@ Welcome to the GitHub profile of Gabriel Guerra.
 
 ## My Top 6 Projects:
 
-[![Project 1](https://via.placeholder.com/150)](https://github.com/yourusername/project1)
-[![Project 2](https://via.placeholder.com/150)](https://github.com/yourusername/project2)
-[![Project 3](https://via.placeholder.com/150)](https://github.com/yourusername/project3)
-[![Project 4](https://via.placeholder.com/150)](https://github.com/yourusername/project4)
-[![Project 5](https://via.placeholder.com/150)](https://github.com/yourusername/project5)
-[![Project 6](https://via.placeholder.com/150)](https://github.com/yourusername/project6)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/yourusername/yourNBAproject">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="150" />
+      </a>
+      <br />
+      NBA Project
+    </td>
+    <td align="center">
+      <a href="https://github.com/yourusername/yourEuro2024project">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro%202024.webp" width="150" />
+      </a>
+      <br />
+      Euro 2024 Project
+    </td>
+  </tr>
+</table>
