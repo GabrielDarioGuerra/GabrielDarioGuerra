@@ -15,14 +15,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
   <tr>
     <td align="center">
       <a href="https://github.com/yourusername/yourNBAproject">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="150" />
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="300" />
       </a>
       <br />
       NBA Project
     </td>
     <td align="center">
       <a href="https://github.com/yourusername/yourEuro2024project">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro%202024.webp" width="150" />
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro%202024.webp" width="300" />
       </a>
       <br />
       Euro 2024 Project
