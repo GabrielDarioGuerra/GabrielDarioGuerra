@@ -37,21 +37,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
       Volcano Project
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/yourSQLFootballProject">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
-      </a>
-      <br />
-      SQL Football Project
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/yourusername/yourNBAProject">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="300" />
       </a>
       <br />
       NBA Project
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/yourusername/yourColombiaProject">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="300" />
@@ -59,8 +52,6 @@ Welcome to the GitHub profile of Gabriel Guerra.
       <br />
       Colombia Project
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yourusername/yourSQLSoccerProject">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
