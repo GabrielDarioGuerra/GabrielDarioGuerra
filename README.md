@@ -9,7 +9,7 @@ Welcome to the GitHub profile of Gabriel Guerra.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrieldarioguerra/)
 
-## My Top 7 Projects:
+## My Top 6 Projects:
 
 <table>
   <tr>
@@ -21,11 +21,11 @@ Welcome to the GitHub profile of Gabriel Guerra.
       NBA Project
     </td>
     <td align="center">
-      <a href="https://github.com/yourusername/yourEuro2024project">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro%202024.webp" width="300" />
+      <a href="https://github.com/yourusername/yourProEngineersProject">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/proengineers.webp" width="300" />
       </a>
       <br />
-      Euro 2024 Project
+      Pro Engineers Project
     </td>
   </tr>
   <tr>
@@ -46,21 +46,12 @@ Welcome to the GitHub profile of Gabriel Guerra.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername/yourProEngineersProject">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/proengineers.webp" width="300" />
-      </a>
-      <br />
-      Pro Engineers Project
-    </td>
-    <td align="center">
       <a href="https://github.com/yourusername/yourSQLFootballProject">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
       </a>
       <br />
       SQL Football Project
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/yourusername/yourVolcanoProject">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/volcano.webp" width="300" />
