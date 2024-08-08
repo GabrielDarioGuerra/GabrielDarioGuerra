@@ -3,10 +3,10 @@
 Welcome to the GitHub profile of Gabriel Guerra.
 
 ## About Me:
-<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/business.png" width="20" /> Business Analyst
-<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/data.png" width="20" /> Data Scientist
-<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/python.png" width="20" /> Programmer
-<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennis.png" width="20" /> Tennis Enthusiast
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/business.png" width="30" /> Business Analyst  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/data.png" width="30" /> Data Scientist  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/python.png" width="30" /> Programmer  
+<img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennis.png" width="30" /> Tennis Enthusiast  
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrieldarioguerra/)
 
