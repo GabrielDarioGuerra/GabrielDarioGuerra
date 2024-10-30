@@ -15,12 +15,21 @@ Welcome to the GitHub profile of Gabriel Guerra.
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NLP%20Video%20Game%20Reviews" target="_blank">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/videogames.webp" width="300" />
+      </a>
+      <br />
+      NLP Video Game Reviews Project
+    </td>
+    <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Data%20Engineering" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/proengineers.webp" width="300" />
       </a>
       <br />
       Pro Engineers Project
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Euro%20Soccer" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro.webp" width="300" />
@@ -28,8 +37,6 @@ Welcome to the GitHub profile of Gabriel Guerra.
       <br />
       Euro Project
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Volcanoes%20Streamlit" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/volcano.webp" width="300" />
@@ -37,6 +44,8 @@ Welcome to the GitHub profile of Gabriel Guerra.
       <br />
       Volcano Project
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NBA%20Interactive%20Map" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="300" />
@@ -44,21 +53,12 @@ Welcome to the GitHub profile of Gabriel Guerra.
       <br />
       NBA Project
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="300" />
       </a>
       <br />
       Colombia Project
-    </td>
-    <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
-      </a>
-      <br />
-      SQL Soccer Project
     </td>
   </tr>
 </table>
