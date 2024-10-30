@@ -54,11 +54,11 @@ Welcome to the GitHub profile of Gabriel Guerra.
       NBA Project
     </td>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank">
-        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="300" />
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
       </a>
       <br />
-      Colombia Project
+      SQL Soccer Project
     </td>
   </tr>
 </table>
