@@ -10,12 +10,12 @@ Welcome to the GitHub profile of Gabriel Guerra.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/gabrieldarioguerra/)
 
-## My Top 6 Projects:
+## My Top Projects:
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NLP%20Video%20Game%20Reviews" target="_blank">
+      <a href="https://github.com/GabrielDarioGuerra/NLP-video-game-review-analysis" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/videogames.webp" width="300" />
       </a>
       <br />
@@ -53,6 +53,15 @@ Welcome to the GitHub profile of Gabriel Guerra.
       <br />
       NBA Project
     </td>
+    <td align="center">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank">
+        <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="300" />
+      </a>
+      <br />
+      Colombia Project
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
