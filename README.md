@@ -15,7 +15,7 @@ Welcome to the GitHub profile of Gabriel Guerra.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Tennis-Classification" target="_blank">
+      <a href="https://1drv.ms/u/s!Aln5M-1qAY5Mlrdrv4mKsBamZBTiWg?e=TvvHpc" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennisshot_classification.webp" width="300" />
       </a>
       <br />
