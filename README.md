@@ -14,14 +14,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Time-Series-stock-prediction" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Time-Series-stock-prediction" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/time_seriers_stock_prediction.webp" width="300" />
       </a>
       <br />
       Time-Series Stock Prediction
     </td>
     <td align="center">
-      <a href="" target="_blank" rel="noopener noreferrer">
+      <a href="" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennisshot_classification.webp" width="300" />
       </a>
       <br />
@@ -30,14 +30,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/NLP-video-game-review-analysis" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/NLP-video-game-review-analysis" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/videogames.webp" width="300" />
       </a>
       <br />
       NLP Video Game Reviews Project
     </td>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Data%20Engineering" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Data%20Engineering" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/proengineers.webp" width="300" />
       </a>
       <br />
@@ -46,14 +46,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Euro%20Soccer" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Euro%20Soccer" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/euro.webp" width="300" />
       </a>
       <br />
       Euro Project
     </td>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Volcanoes%20Streamlit" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Volcanoes%20Streamlit" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/volcano.webp" width="300" />
       </a>
       <br />
@@ -62,14 +62,14 @@ Welcome to the GitHub profile of Gabriel Guerra.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NBA%20Interactive%20Map" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/NBA%20Interactive%20Map" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/NBA%20icon.webp" width="300" />
       </a>
       <br />
       NBA Project
     </td>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/Colombia%20Data%20Analytics" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/colombia.webp" width="300" />
       </a>
       <br />
@@ -78,7 +78,7 @@ Welcome to the GitHub profile of Gabriel Guerra.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Data-Science-Portfolio/tree/master/SQL%20European%20Soccer%20League" target="_blank">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/sqlfootball.webp" width="300" />
       </a>
       <br />
@@ -86,4 +86,3 @@ Welcome to the GitHub profile of Gabriel Guerra.
     </td>
   </tr>
 </table>
-
