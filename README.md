@@ -21,7 +21,7 @@ Welcome to the GitHub profile of Gabriel Guerra.
       Time-Series Stock Prediction
     </td>
     <td align="center">
-      <a href="https://github.com/GabrielDarioGuerra/Tennis-Classification" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/GabrielDarioGuerra/Tennisshot-Classification" target="_blank" rel="noopener noreferrer">
         <img src="https://github.com/GabrielDarioGuerra/GabrielDarioGuerra/blob/main/tennisshot_classification.webp" width="300" />
       </a>
       <br />
